@@ -3,7 +3,7 @@
 
 Fullstack onchain portfolio site using the Apress framework. 
 
-## CONTRIBUTIONS
+## Contributions
 
 This repository is a fork of [Assembly Press](https://github.com/public-assembly/assembly-press/)
 
